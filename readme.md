@@ -2,4 +2,4 @@
 
 Access the project
 
-[> Open layout](carousel-infinity.surge.sh)
+[> Open layout](<https://carousel-infinity.surge.sh/>)
